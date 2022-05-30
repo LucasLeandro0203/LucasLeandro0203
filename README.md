@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+We are students from João de Faria Pioli
+We are currently learning JavaScript and HTML
+We will use this github account to save our projects
+Fun fact: Megão é o melhor
 <!--
 **LucasLeandro0203/LucasLeandro0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
