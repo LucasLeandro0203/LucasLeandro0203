@@ -1,2 +1,7 @@
-### Hi there 👋
-- We will use this account to save our school projects
+### Olá 👋
+## Alunos:
+- Leandro
+- Lucas
+
+## Sobre nós 
+- Nós vamos usar esta conta para salvar projetos da escola
